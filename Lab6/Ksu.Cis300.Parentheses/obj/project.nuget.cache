@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M30Q+TOpOkDOMw9mgQOPX8SRDCg5rm2xorDTgRbSdUDGzMeimHXBCzOLhglwzPv0hqwD7P79d5BTRSYe32Mg1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmrottin\\Desktop\\Lab6\\Ksu.Cis300.Parentheses\\Ksu.Cis300.Parentheses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmrottin\\.nuget\\packages\\ksu.cs.codeanalyzers\\1.0.3.3\\ksu.cs.codeanalyzers.1.0.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
